@@ -1,2 +1,2 @@
-# Personal Website
- My Portfolio website of my Projects & Achievements
+# Portfolio
+ My Personal Website showing all of my accomplishments, and projects
